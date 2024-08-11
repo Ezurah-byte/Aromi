@@ -1,0 +1,28 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "paths": {
+      "*": ["app/"],
+      "tests": ["tests/*"],
+      "@images/*": ["app/assets/images/*"],
+      "@lotties/*": ["app/assets/lotties/*"],
+      "@vectors/*": ["app/assets/vectors/*"],
+      "@theme/*": ["app/theme/*"],
+      "@types/*": ["app/types/*"],
+      "@library/*": ["app/library/*"],
+      "@hooks/*": ["app/hooks/*"],
+      "@utils/*": ["app/utils/*"],
+      "@atoms/*": ["app/components/atoms/index"],
+      "@molecules/*": ["app/components/molecules/index"],
+      "@public/*": ["app/screens/public/index"],
+      "@private/*": ["app/screens/private/index"],
+      "@hooks/*": ["app/hooks/index"],
+      "@root/*": ["app/navigation/rootNavigation"],
+      "@animation/*": ["app/animation/*"],
+    }
+  }
+}

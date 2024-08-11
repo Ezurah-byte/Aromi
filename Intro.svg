@@ -1,0 +1,47 @@
+<!-- Animated using SVGANIMA - https://svganima.com -->
+<svg width="1440" height="621" viewBox="0 0 1440 621" fill="none" xmlns="http://www.w3.org/2000/svg" id="svg4496" preserveAspectRatio="xMidYMid">
+<rect width="1440" height="621" fill="#F5F5F5" id="rect1725"></rect>
+<g id="ai" clip-path="url(#clip0_0_1)">
+<path id="rect4095" d=" M 1440 0 H 0 V 621 H 1440 V 0 Z " fill="url(#paint0_linear_0_1)"></path>
+<g id="Clip path group">
+<mask id="mask0_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="570" y="69" width="299" height="295">
+<g id="clip0_0_1">
+<path id="rect4841" d=" M 869 69.7773 H 570 V 363.859 H 869 V 69.7773 Z " fill="white"></path>
+</g>
+</mask>
+<g mask="url(#mask0_0_1)" id="g4620">
+<g id="icon">
+<path id="Vector" d=" M 796.481 264.554 C 837.764 187.772 836.765 104.159 794.248 77.8003 C 751.732 51.4415 683.799 92.3189 642.516 169.101 C 601.232 245.883 602.232 329.496 644.748 355.855 C 687.265 382.213 755.198 341.336 796.481 264.554 Z " fill="url(#paint1_linear_0_1)"></path>
+<path id="Vector_2" d=" M 794.24 355.843 C 836.757 329.484 837.756 245.873 796.473 169.089 C 755.19 92.3071 687.257 51.4308 644.74 77.7897 C 602.224 104.147 601.224 187.76 642.508 264.542 C 683.791 341.326 751.724 382.202 794.24 355.843 Z " fill="url(#paint2_linear_0_1)"></path>
+<path id="Vector_3" d=" M 719.5 312.271 C 802.067 312.271 869 269.536 869 216.818 C 869 164.101 802.067 121.365 719.5 121.365 C 636.933 121.365 570 164.101 570 216.818 C 570 269.536 636.933 312.271 719.5 312.271 Z " fill="url(#paint3_linear_0_1)"></path>
+</g>
+</g>
+<animateTransform attributeName="transform" attributeType="auto" type="rotate" values="0 722.41 217.09;360 722.41 217.09" calcMode="spline" keyTimes="0;1" keySplines="0 0 1 1" dur="40s" begin="0s" repeatCount="indefinite" additive="sum" accumulate="none" fill="freeze" id="animateTransform6407"></animateTransform></g>
+<text id="Welcome to Nuvolux" fill="#101828" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="70" font-weight="bold" letter-spacing="0em"><tspan x="369" y="487.955" id="tspan2412">Welcome to EZURAH</tspan></text>
+<path id="Vector_4" d=" M 1223.65 460.548 C 1196.72 460.548 1174.85 486.594 1174.85 518.657 C 1174.85 518.905 1174.71 519.069 1174.5 519.069 C 1174.29 519.069 1174.15 518.905 1174.15 518.657 C 1174.15 486.594 1152.28 460.548 1125.35 460.548 C 1125.14 460.548 1125 460.384 1125 460.136 C 1125 459.889 1125.14 459.724 1125.35 459.724 C 1152.28 459.724 1174.15 433.678 1174.15 401.615 C 1174.15 401.368 1174.29 401.203 1174.5 401.203 C 1174.71 401.203 1174.85 401.368 1174.85 401.615 C 1174.85 433.678 1196.72 459.724 1223.65 459.724 C 1223.86 459.724 1224 459.889 1224 460.136 C 1224 460.384 1223.86 460.548 1223.65 460.548 Z M 1196.65 417.276 C 1203.92 417.276 1209.81 410.27 1209.81 401.615 C 1209.81 401.368 1209.95 401.203 1210.15 401.203 C 1210.36 401.203 1210.5 401.368 1210.5 401.615 C 1210.5 410.27 1216.38 417.276 1223.65 417.276 C 1223.86 417.276 1224 417.441 1224 417.688 C 1224 417.935 1223.86 418.1 1223.65 418.1 C 1216.38 418.1 1210.5 425.107 1210.5 433.761 C 1210.5 434.007 1210.36 434.173 1210.15 434.173 C 1209.95 434.173 1209.81 434.007 1209.81 433.761 C 1209.81 425.107 1203.92 418.1 1196.65 418.1 C 1196.45 418.1 1196.31 417.935 1196.31 417.688 C 1196.31 417.441 1196.45 417.276 1196.65 417.276 Z M 1148.19 502.996 C 1143.21 502.996 1139.19 507.778 1139.19 513.712 C 1139.19 513.959 1139.05 514.124 1138.85 514.124 C 1138.64 514.124 1138.5 513.959 1138.5 513.712 C 1138.5 507.778 1134.48 502.996 1129.5 502.996 C 1129.29 502.996 1129.15 502.832 1129.15 502.584 C 1129.15 502.337 1129.29 502.172 1129.5 502.172 C 1134.48 502.172 1138.5 497.391 1138.5 491.457 C 1138.5 491.21 1138.64 491.045 1138.85 491.045 C 1139.05 491.045 1139.19 491.21 1139.19 491.457 C 1139.19 497.391 1143.21 502.172 1148.19 502.172 C 1148.4 502.172 1148.54 502.337 1148.54 502.584 C 1148.54 502.832 1148.4 502.996 1148.19 502.996 Z " fill="#7F56D9" transform="matrix(1 0 0 1 45.254832461387196 0)"><animateTransform attributeName="transform" attributeType="auto" type="rotate" values="0 1174.96 454.68;360 1174.96 454.68" calcMode="spline" keyTimes="0;1" keySplines="0 0 1 1" dur="40s" begin="0s" repeatCount="indefinite" additive="sum" accumulate="none" fill="freeze" id="animateTransform9339"></animateTransform></path>
+<path id="Vector_5" d=" M 314.654 460.548 C 287.723 460.548 265.846 486.594 265.846 518.657 C 265.846 518.905 265.708 519.069 265.5 519.069 C 265.292 519.069 265.154 518.905 265.154 518.657 C 265.154 486.594 243.277 460.548 216.346 460.548 C 216.138 460.548 216 460.384 216 460.136 C 216 459.889 216.138 459.724 216.346 459.724 C 243.277 459.724 265.154 433.678 265.154 401.615 C 265.154 401.368 265.292 401.203 265.5 401.203 C 265.708 401.203 265.846 401.368 265.846 401.615 C 265.846 433.678 287.723 459.724 314.654 459.724 C 314.862 459.724 315 459.889 315 460.136 C 315 460.384 314.862 460.548 314.654 460.548 Z M 287.654 417.276 C 294.923 417.276 300.808 410.27 300.808 401.615 C 300.808 401.368 300.946 401.203 301.154 401.203 C 301.362 401.203 301.5 401.368 301.5 401.615 C 301.5 410.27 307.385 417.276 314.654 417.276 C 314.862 417.276 315 417.441 315 417.688 C 315 417.935 314.862 418.1 314.654 418.1 C 307.385 418.1 301.5 425.107 301.5 433.761 C 301.5 434.007 301.362 434.173 301.154 434.173 C 300.946 434.173 300.808 434.007 300.808 433.761 C 300.808 425.107 294.923 418.1 287.654 418.1 C 287.446 418.1 287.308 417.935 287.308 417.688 C 287.308 417.441 287.446 417.276 287.654 417.276 Z M 239.192 502.996 C 234.208 502.996 230.192 507.778 230.192 513.712 C 230.192 513.959 230.054 514.124 229.846 514.124 C 229.638 514.124 229.5 513.959 229.5 513.712 C 229.5 507.778 225.485 502.996 220.5 502.996 C 220.292 502.996 220.154 502.832 220.154 502.584 C 220.154 502.337 220.292 502.172 220.5 502.172 C 225.485 502.172 229.5 497.391 229.5 491.457 C 229.5 491.21 229.638 491.045 229.846 491.045 C 230.054 491.045 230.192 491.21 230.192 491.457 C 230.192 497.391 234.208 502.172 239.192 502.172 C 239.4 502.172 239.538 502.337 239.538 502.584 C 239.538 502.832 239.4 502.996 239.192 502.996 Z " fill="#7F56D9"><animateTransform attributeName="transform" attributeType="auto" type="rotate" values="0 264.21 465.99;360 264.21 465.99" calcMode="spline" keyTimes="0;1" keySplines="0 0 1 1" dur="40s" begin="0s" repeatCount="indefinite" additive="sum" accumulate="none" fill="freeze" id="animateTransform7683"></animateTransform></path>
+</g>
+<defs id="defs4605">
+<linearGradient id="paint0_linear_0_1" x1="720" y1="0" x2="720" y2="621" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF4ED" id="stop7392"></stop>
+<stop offset="0.18" stop-color="#FCE6FF" id="stop5262"></stop>
+<stop offset="0.59" stop-color="#D4EBFF" id="stop4129"></stop>
+<stop offset="1" stop-color="#D1FEFC" id="stop5819"></stop>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="637.768" y1="151.164" x2="820.722" y2="271.841" gradientUnits="userSpaceOnUse">
+<stop stop-color="#03A4FD" stop-opacity="0" id="stop5784"></stop>
+<stop offset="1" stop-color="#0849FF" id="stop6108"></stop>
+</linearGradient>
+<linearGradient id="paint2_linear_0_1" x1="632.829" y1="252.366" x2="805.992" y2="188.492" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0879FF" stop-opacity="0.1" id="stop2555"></stop>
+<stop offset="1" stop-color="#37F9F7" id="stop5171"></stop>
+</linearGradient>
+<linearGradient id="paint3_linear_0_1" x1="718.732" y1="310.059" x2="720.55" y2="120.023" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FB81FF" stop-opacity="0" id="stop3389"></stop>
+<stop offset="1" stop-color="#FB81FF" id="stop6866"></stop>
+</linearGradient>
+<clipPath id="clipPath1203">
+<rect width="1440" height="621" fill="white" id="rect6198"></rect>
+</clipPath>
+</defs>
+</svg>
