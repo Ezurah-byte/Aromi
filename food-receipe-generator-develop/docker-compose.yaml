@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  backend:
+    build: .
+    restart: always
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/recipe_database
+    env_file:
+      - .env
+    ports:
+      - "5010:5010"
+    volumes:
+      - ./:/app/
+
+  mongo:
+    image: mongo:6
+    restart: always
+    ports:
+      - 27019:27017
+    volumes:
+      - mongodb_data_container:/data/db
+
+volumes:
+  mongodb_data_container:

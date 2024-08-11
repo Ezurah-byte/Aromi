@@ -1,0 +1,5 @@
+GEMINI_API_KEY= <your api key>
+MONGO_URI= <mongo connection url>
+MONGO_DB= <db name>
+SEARCH_ENGINE_ID= <programmable search engine id>
+GOOGLE_API_KEY= <google cloud console api>

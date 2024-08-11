@@ -1,0 +1,31 @@
+# Build artifacts
+build/
+*.bin
+*.elf
+*.map
+*.log
+*.o
+
+# IDE files
+*.vscode
+*.project
+*.user
+*.tmp
+*.suo
+*.sln
+*.pbxproj
+
+# Dependency files
+*.d
+
+# Configuration files
+sdkconfig
+idf.py
+
+# Third-party libraries (if not managed by Git submodules)
+components/
+external/
+
+# Temporary files
+*.pyc
+*.swp
